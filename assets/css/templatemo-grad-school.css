@@ -1524,6 +1524,15 @@ section.contact form button {
     border: none;
 }
 
+section.contact article {
+  text-align: center;
+  vertical-align: middle;
+}
+
+section.contact h4 {
+  color: white
+}
+
 /* Footer */
 
 footer {
