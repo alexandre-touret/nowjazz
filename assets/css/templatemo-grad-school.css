@@ -632,7 +632,7 @@ section.coming-soon .continer .counter div {
 }
 section.coming-soon .continer h4 {
     margin-top: 100px;
-    font-size: 30px;
+    font-size: 18px;
     color: #fff;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -1529,7 +1529,7 @@ section.contact article {
   vertical-align: middle;
 }
 
-section.contact h4 {
+section.contact    {
   color: white
 }
 
@@ -1543,7 +1543,7 @@ footer {
 
 footer p {
     margin-bottom: 0px;
-    padding: 25px 0px;
+     padding: 25px 0px;
     color: #fff;
     font-size: 13px;
     text-transform: uppercase;
